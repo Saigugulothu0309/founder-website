@@ -6,8 +6,7 @@ async function main() {
   console.log('🌱 Seeding database...')
 
   // Impact metrics
-  await prisma.impactMetric.createMany({
-    skipDuplicates: true,
+await prisma.impactMetric.createMany({
     data: [
       { id: '1', label: 'Users Impacted',     value: '50,000+', category: 'users',    order: 1 },
       { id: '2', label: 'Countries',           value: '12',      category: 'countries',order: 2 },
