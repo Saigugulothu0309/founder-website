@@ -11,7 +11,7 @@ const ventures: Venture[] = [
     status: 'active', stage: 'prototype', category: 'Accessibility AI',
     tags: ['Computer Vision', 'NLP', 'Real-Time', 'Accessibility'],
     techStack: ['PyTorch', 'MediaPipe', 'Next.js', 'WebRTC'],
-    metrics: { users: '500+', countries: '3', raised: 'Pre-seed' },
+    metrics: { users: '500+', countries: '3', raised: 'Accessibility communication platform' },
     problem: 'Over 70 million deaf people globally rely on interpreters for daily communication.',
     solution: 'Real-time AI translation that works on any smartphone, no hardware needed.',
   },
