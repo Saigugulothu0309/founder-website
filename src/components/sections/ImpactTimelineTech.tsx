@@ -42,7 +42,7 @@ const metrics = [
   { value: '12',      label: 'Countries',       desc: 'Products deployed globally',   icon: '🌍' },
   { value: '6',       label: 'Pilots Running',  desc: 'Active product pilots',         icon: '🚀' },
   { value: '18',      label: 'Research Citations', desc: 'Peer-reviewed impact',       icon: '📚' },
-  { value: '3',       label: 'Grants & Awards', desc: 'Including MEXT scholarship',   icon: '🏆' },
+  { value: '3',       label: 'Grants & Awards', desc: 'Including MEXT Applicantship',   icon: '🏆' },
   { value: '2',       label: 'Patents Pending', desc: 'Core technology protection',   icon: '⚙️' },
 ]
 
@@ -72,7 +72,7 @@ export function Impact() {
 const events = [
   { year: '2018', title: 'Started Computer Science', desc: 'Began undergraduate studies, specializing in AI and systems programming.', category: 'education', icon: '🎓' },
   { year: '2020', title: 'First Research Publication', desc: 'Published first paper on lightweight neural architectures at a major workshop.', category: 'research', icon: '📄' },
-  { year: '2021', title: 'MEXT Scholarship — Japan', desc: 'Awarded Japanese Ministry of Education scholarship for graduate research in AI accessibility.', category: 'award', icon: '🏆' },
+  { year: '2021', title: 'MEXT Applicantship — Japan', desc: 'Awarded Japanese Ministry of Education scholarship for graduate research in AI accessibility.', category: 'award', icon: '🏆' },
   { year: '2022', title: 'Founded EdgeVision (Stealth)', desc: 'Started building edge AI infrastructure for real-time computer vision applications.', category: 'startup', icon: '🚀' },
   { year: '2023', title: 'ACM CHI Publication', desc: 'Research on gesture recognition HCI accepted at ACM CHI — one of the top venues in the field.', category: 'research', icon: '📚' },
   { year: '2023', title: 'First 1,000 Users', desc: 'Reached 1,000 active users across products spanning 5 countries.', category: 'milestone', icon: '🌍' },

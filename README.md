@@ -51,7 +51,7 @@ src/
 │   │   ├── Ventures.tsx    # Venture cards with status badges
 │   │   ├── Research.tsx    # Papers, patents, experiments
 │   │   ├── ImpactTimelineTech.tsx  # Technologies + Impact metrics + Timeline
-│   │   ├── Blog.tsx        # Thought leadership posts
+│   │   ├── Blog.tsx        # Builder Notes posts
 │   │   └── Contact.tsx     # Multi-type inquiry form
 │   └── ui/
 │       ├── AnimatedSection.tsx  # Scroll-triggered reveal
@@ -78,7 +78,7 @@ prisma/
 |-----------------|-------------------------------------------|
 | `Venture`       | Startups, products, future ventures       |
 | `Research`      | Papers, patents, experiments, projects    |
-| `BlogPost`      | Thought leadership articles               |
+| `BlogPost`      | Builder Notes articles               |
 | `TimelineEvent` | Career and milestone timeline             |
 | `ImpactMetric`  | Live metrics (users, countries, etc.)     |
 | `ContactInquiry`| All contact form submissions              |

@@ -25,7 +25,7 @@ const research = [
     type: 'project', year: 2024,
     title: 'MEXT Research: Multimodal Communication Interfaces for Disability Inclusion',
     abstract: 'Japan Ministry of Education funded research on designing AI-powered interfaces that reduce communication barriers for people with disabilities.',
-    journal: 'MEXT Scholarship Research',
+    journal: 'MEXT Applicantship Research',
     tags: ['MEXT', 'Accessibility', 'Multimodal AI'],
     citations: 0,
   },

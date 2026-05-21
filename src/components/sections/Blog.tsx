@@ -42,7 +42,7 @@ export default function Blog() {
       <div className="container-xl">
         <SectionHeader
           eyebrow="Blog · Insights"
-          title="Thought leadership & lessons learned"
+          title="Builder Notes & lessons learned"
           subtitle="Writing on startups, research, accessibility, and building technology with purpose."
         />
 
